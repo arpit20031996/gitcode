@@ -1,4 +1,4 @@
-bash11111111
+bash11
 #!/bin/bash
 
 # File to log memory usage
