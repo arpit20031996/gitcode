@@ -8,3 +8,12 @@ x=a+b
 
 z=q-w
 j=s-d
+
+
+
+
+
+
+# Multiplication functionality
+
+c=v*b
